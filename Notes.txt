@@ -1,0 +1,5 @@
+Analyzed 460 monthly PSA retail price records for 5 staple goods across NCR and Palawan (2023–2026), using Python (pandas) for cleaning and MySQL for analysis
+
+Wrote SQL queries with CTEs, CASE pivots and window functions (LAG, ROW_NUMBER) to measure regional price gaps, year-over-year changes and peak months
+
+Found that Palawan paid more for chicken and eggs in all 46 months (+17–18%), and that rice was the fastest-rising staple (+19–20%), peaking at ₱50.87/kg in May 2026

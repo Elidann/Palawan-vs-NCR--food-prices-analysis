@@ -1,0 +1,13 @@
+{
+  "name": "Minimal Teal",
+  "dataColors": ["#94A3B8", "#0F766E", "#CBD5E1", "#134E4A", "#64748B"],
+  "background": "#FFFFFF",
+  "foreground": "#1F2937",
+  "tableAccent": "#0F766E",
+  "textClasses": {
+    "title":   { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1F2937" },
+    "label":   { "fontFace": "Segoe UI", "fontSize": 10, "color": "#6B7280" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 26, "color": "#111827" },
+    "header":  { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1F2937" }
+  }
+}
