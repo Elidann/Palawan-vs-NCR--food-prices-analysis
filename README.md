@@ -23,16 +23,7 @@ How much more do Palawan households pay for basic food than Metro Manila, and wh
 2. **MySQL:** loaded the clean data and wrote analysis queries using CTEs, CASE pivots and window functions (LAG, ROW_NUMBER) (`sql/`)
 3. **Power BI:** built an interactive dashboard with DAX measures for latest prices, regional gap % and change since January 2023 (`ph_food_prices.pbix`)
 
-## Project structure
 
-| Path                     | Contents                         |
-| ------------------------ | -------------------------------- |
-| `raw/`                   | Original PSA CSV downloads       |
-| `clean/prices_clean.csv` | Cleaned, long-format dataset     |
-| `clean_data.py`          | Cleaning script                  |
-| `sql/`                   | Table setup and analysis queries |
-| `ph_food_prices.pbix`    | Power BI dashboard               |
-| `theme.json`             | Custom Power BI theme            |
 
 ## Author
 
